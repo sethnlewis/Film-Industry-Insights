@@ -63,7 +63,8 @@ Please refer to the [Jupyter Notebook](./main.ipynb) for the full analysis, or r
 ├── cleaning_dicts
 ├── data
 ├── images
-├── README.md
 ├── main.ipynb
-└── Presentation.pdf
+├── presentation recording.mp4
+├── presentation slides.pdf
+└── README.md
 ```
