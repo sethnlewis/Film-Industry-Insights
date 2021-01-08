@@ -49,7 +49,7 @@ The results are shown relative to the *popularity* of the genres based on the fi
 
 Lastly, the top five Directors were identified as Steven Spielberg, Peter Jackson, Michael Bay, James Cameron, and Christopher Nolan. Importantly, the median profitability of a film produced by one of these directors was roughly twice as high as the median profitability of a film produced by the subsequent 20 top Directors. 
 
-![Top_Directors](./images/Impact of Director Selection on Profit.png)
+![Top_Directors](./images/Impact_of_Director_Selection_on_Profit.png)
 
 In conclusion, it was determined that choice of genre has a noteworthy impact on the success of a film, and the choice of a Director has a substantial impact on success. It is recommended that business decisions take these factors into account when determining the best possible course of action.  
 
