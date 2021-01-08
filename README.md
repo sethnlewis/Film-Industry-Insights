@@ -41,11 +41,10 @@ In answering the first and second question, a dataset was aggregated from multip
 
 With regard to the first topic of investigation -- determining which genres are most lucrative -- they were identified as Adventure, Romance, Animation and Crime, as shown in the image below. 
 
-![Top_Genres](./images/Popular Success of Leading Genres.png)
-
+![Top_Genres](./images/Popular_Success_of_Leading_Genres.png)
 The results are shown relative to the *popularity* of the genres based on the findings from the second topic of investigation. There is a moderate correlation between popularity and profitability. As a result, it is essential as a company in a new market, to develop a positive brand image in order to drive future profits in a sustainable way. The popularity metrics are derived from TMDb. 
 
-![Correlation_Profit_Popularity](./images/Effect of Popularity on Financial Success.png)
+![Correlation_Profit_Popularity](./images/Effect_of_Popularity_on_Financial_Success.png)
 
 
 Lastly, the top five Directors were identified as Steven Spielberg, Peter Jackson, Michael Bay, James Cameron, and Christopher Nolan. Importantly, the median profitability of a film produced by one of these directors was roughly twice as high as the median profitability of a film produced by the subsequent 20 top Directors. 
