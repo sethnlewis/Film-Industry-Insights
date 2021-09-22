@@ -77,4 +77,4 @@ In conclusion, it was determined that choice of genre has a noteworthy impact on
 
 ## For More Information
 
-Please refer to the [Jupyter Notebook](./main.ipynb) for the full analysis, or review to the final presentation [presentation](./presentation.pdf) for an overview of the results.
+Please refer to the [Jupyter notebook](./notebooks/main.ipynb) for the full analysis, or review to the final presentation [presentation](./report/presentation.pdf) for an overview of the results.
