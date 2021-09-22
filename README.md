@@ -1,11 +1,33 @@
 # An Analysis: Crafting a Successful Movie Studio
-![header_image](./images/lights_camera_action.png)
+![header_image](./report/images/lights_camera_action.png)
 **Author:** Seth Schober
 
 
 ## Overview
 
 As part of the Phase 1 project for Flatiron School's Data Science program, this analysis explores several essential aspects of success in the film industry through the lens of a company looking to grow into the industry with no prior knowledge. 
+
+
+
+## Repository Structure
+
+```
+│                        
+├── data
+│   └── raw       <-- Original data
+│
+├── notebooks     <-- Primary notebook showing full analysis
+│
+├── report        <-- Data user manuals
+│
+├── report        <-- Non-technical presentation
+│   └── images    <-- Figures used in presentation and notebooks
+│
+├── src           <-- Lookups referenced in notebook
+│
+└── README.md     <-- Main README file
+```
+
 
 ## Business Problem
 This analysis seeks to make key determinations about the film industry that could be used as a starting point for a company looking to break into the industry. Specifically, it seeks to identify main factors that should be considered from a strategic standpoint. As a new business without industry knowledge, it is essential to dive deep into existing data to gain valuable insights. They will be discussed in depth below.
@@ -41,30 +63,18 @@ In answering the first and second question, a dataset was aggregated from multip
 
 With regard to the first topic of investigation -- determining which genres are most lucrative -- they were identified as Adventure, Romance, Animation and Crime, as shown in the image below. 
 
-![Top_Genres](./images/Popular_Success_of_Leading_Genres.png)
+![Top_Genres](./report/images/Popular_Success_of_Leading_Genres.png)
 The results are shown relative to the *popularity* of the genres based on the findings from the second topic of investigation. There is a moderate correlation between popularity and profitability. As a result, it is essential as a company in a new market, to develop a positive brand image in order to drive future profits in a sustainable way. The popularity metrics are derived from TMDb. 
 
-![Correlation_Profit_Popularity](./images/Effect_of_Popularity_on_Financial_Success.png)
+![Correlation_Profit_Popularity](./report/images/Effect_of_Popularity_on_Financial_Success.png)
 
 
 Lastly, the top five Directors were identified as Steven Spielberg, Peter Jackson, Michael Bay, James Cameron, and Christopher Nolan. Importantly, the median profitability of a film produced by one of these directors was roughly twice as high as the median profitability of a film produced by the subsequent 20 top Directors. 
 
-![Top_Directors](./images/Impact_of_Director_Selection_on_Profit.png)
+![Top_Directors](./report/images/Impact_of_Director_Selection_on_Profit.png)
 
 In conclusion, it was determined that choice of genre has a noteworthy impact on the success of a film, and the choice of a Director has a substantial impact on success. It is recommended that business decisions take these factors into account when determining the best possible course of action.  
 
 ## For More Information
 
-Please refer to the [Jupyter Notebook](./main.ipynb) for the full analysis, or review to the final presentation [presentation](./Presentation.pdf) for an overview of the results.
-
-## Repository Structure
-
-```
-├── cleaning_dicts
-├── data
-├── images
-├── main.ipynb
-├── presentation recording.mp4
-├── presentation slides.pdf
-└── README.md
-```
+Please refer to the [Jupyter Notebook](./main.ipynb) for the full analysis, or review to the final presentation [presentation](./presentation.pdf) for an overview of the results.
